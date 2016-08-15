@@ -36,6 +36,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
+        applicationId "net.dclg.volleyballscore.app"
         versionCode 1
         versionName "1.0"
 

@@ -1,4 +1,4 @@
-package com.example.android.google.wearable.app;
+package net.dclg.volleyballscore.app;
 
 import android.app.Activity;
 import android.os.Bundle;
